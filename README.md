@@ -14,7 +14,7 @@ For the machine to detect these forms, someone must meticulously transfer them t
 
 There are two important factors for this algorithm to be effective: high accuracy and ease of use. I aim to achieve a result close to the human error rate, or even exceed it. Otherwise, if it makes more mistakes than a human, such an algorithm cannot be used, and further improvements needs to be developed. Furthermore, ease of use is an important consideration because a technical algorithm may require high-end programming knowledge that the everyday user may not know.
 ## 1.2	UNDERSTANDING THE FORM
-<img src="Images/Figure 1 Empty Form.PNG" height="750">
+<img src="Images/Figure 1 Empty Form.png" height="750">
 <img src="Images/Figure 2&3 Filled Form.png" height="750">
 Figure 1 shows the blank form of the data processing form taken into consideration. The second figure shows the completed form as an example. The form is divided into two parts, cutting and banding. The first 4 columns are used for the features of the parts to be cut, while the last 4 columns are used to express the sides of the part to be edge banded.
 	
@@ -67,6 +67,11 @@ When the results were evaluated, it was seen that some typical numbers could be 
 # 3	 RESULTS 
 To examine the result of the tested model, 4 sample cutting banding forms were selected. While making this selection, I chose 2 samples in good condition and 2 samples in bad condition. At the same time, I considered that they have different characteristics for comparison. Each example will be examined in detail.
 ## 3.1	GETTING TO KNOW THE EXAMPLES 
+<img src="Images/Figure 2&3 Filled Form.png" height="750">
+<img src="Images/Figure 4.png" height="750">
+<img src="Images/Figure 5.png" height="750">
+<img src="Images/Figure 6.png" height="750">
+
 The first two examples are relatively cleaner and neater compared to the last two examples. 
 	
 In the first example, there is no other roughness except the scribble on line 13 and the long line on line 20. In the second, extra text was written on the banding part in just two lines.
