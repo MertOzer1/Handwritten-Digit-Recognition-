@@ -14,6 +14,8 @@ For the machine to detect these forms, someone must meticulously transfer them t
 
 There are two important factors for this algorithm to be effective: high accuracy and ease of use. I aim to achieve a result close to the human error rate, or even exceed it. Otherwise, if it makes more mistakes than a human, such an algorithm cannot be used, and further improvements needs to be developed. Furthermore, ease of use is an important consideration because a technical algorithm may require high-end programming knowledge that the everyday user may not know.
 ## 1.2	UNDERSTANDING THE FORM
+<img src="Images/Figure 1 Empty Form.PNG" height="750">
+<img src="Images/Figure 2&3 Filled Form.png" height="750">
 Figure 1 shows the blank form of the data processing form taken into consideration. The second figure shows the completed form as an example. The form is divided into two parts, cutting and banding. The first 4 columns are used for the features of the parts to be cut, while the last 4 columns are used to express the sides of the part to be edge banded.
 	
 To begin with the cutting side, 1st column represents the ordinal number. So, each piece has its own serial number. The second column represents the length, and the third column represents the width of the piece to be cut. The last column in the cutting section is there to indicate how many numbers of that piece are requested. 
