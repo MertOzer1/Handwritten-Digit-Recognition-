@@ -109,7 +109,7 @@ The numbers of lines and columns equal to 26 and 3, respectively. So, the total 
 
 | The value read by the algorithm	| The actual value	| The number of repetitions |
 | --- | --- | --- |
-| X	| 1	4
+| X	| 1	|4 |
 | “Didn’t read” |	1 | 4 |
 | J15	| 115	| 1 |
 | 564	| 56.4	| 1 |
